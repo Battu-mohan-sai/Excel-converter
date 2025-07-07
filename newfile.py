@@ -237,3 +237,5 @@ with col2:
                     )
                 except Exception as e:
                     st.error(f"Error during conversion: {str(e)}")
+
+npx wrangler deploy
