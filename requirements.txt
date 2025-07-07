@@ -1,5 +1,8 @@
-streamlit==1.35.0
-pandas==2.2.3
+flask==3.0.3
+flask-cors==4.0.1
+pandas==2.2.2
 beautifulsoup4==4.12.3
 openpyxl==3.1.2
-webcolors==24.11.1
+webcolors==1.13
+python-magic==0.4.27
+werkzeug==3.0.3
